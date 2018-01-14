@@ -1,0 +1,1 @@
+	gcc -L/home/gridscape/Himanshu/testingcodes/dynamicLib -Wl,-rpath=/home/gridscape/Himanshu/testingcodes/dynamicLib -Wall -o test main.c -lfoo
