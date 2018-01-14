@@ -1,0 +1,36 @@
+#include<cstdlib>
+#include<fstream>
+#include<iostream>
+#include<jsoncpp/json/json.h>
+int main()
+{
+Json::Reader reader;
+Json::Value root;
+Json::StyledStreamWriter writer;
+std::string text ="{\"first\": \"James\",\"last\":\"Bond\",\"\nums\":[0,0,7]}";
+std::ofstream outFile;
+if(!reader.parse(text,root))
+{
+std::cout<<reader.getFormattedErrorMessages();
+exit(1);
+
+}
+else{
+std::cout<<"Size:"<<root.size()<<std::endl;
+std::cout<<"Contains nums?"<<root.isMember("nums")<<std::endl;
+//root["first"]="Jimmy";
+//root["middle"]="Danger";
+outFile.open("output.jason");
+writer.write(outFile,root);
+outFile.close();
+return 0;
+
+}
+
+
+
+
+
+
+
+}

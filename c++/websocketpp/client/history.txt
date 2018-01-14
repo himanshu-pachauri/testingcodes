@@ -1,0 +1,1000 @@
+ 1061  ./play
+ 1062  ./player 
+ 1063  sudo apt-get install libav-tools
+ 1064  ./player 
+ 1065  reboot
+ 1066  ssh 10.2.29.17 -p 52535
+ 1067  ls
+ 1068  cd Himanshu/
+ 1069  ls
+ 1070  cd linuxProgramming/
+ 1071  ls
+ 1072  cd 776130code11.tar
+ 1073  ls
+ 1074  cd 776130code11
+ 1075  ls
+ 1076  cd code/
+ 1077  ls
+ 1078  make clean
+ 1079  make
+ 1080  ./player 
+ 1081  ls
+ 1082  ./player 
+ 1083  ls
+ 1084  sudo add-apt-repository ppa:mc3man/trusty-media
+ 1085  sudo apt-get update
+ 1086  sudo apt-get dist-upgrade
+ 1087  sudo apt-get install ffmpeg
+ 1088  ./player 
+ 1089  make clean
+ 1090  make
+ 1091  ./player 
+ 1092  ssh 10.2.29.17 -p 52535
+ 1093  ls
+ 1094  cd Himanshu/
+ 1095  ls
+ 1096  cd Himanshu/
+ 1097  ls
+ 1098  cd Himanshu_video/
+ 1099  ls
+ 1100  cd ..
+ 1101  ls
+ 1102  gst-launch-0.10 playbin2 uri=rtsp://www.youtube.com/watch?v=-HGd1KRbc34
+ 1103  gst-launch-1.0 playbin2 uri=rtsp://www.youtube.com/watch?v=-HGd1KRbc34
+ 1104  gst-launch-1.0 playbin uri=rtsp://www.youtube.com/watch?v=-HGd1KRbc34
+ 1105  ls
+ 1106  cd Gstreamer/
+ 1107  ls
+ 1108  cd gst-docs/
+ 1109  ls
+ 1110  make
+ 1111  ls
+ 1112  cd examples/
+ 1113  ls
+ 1114  cd tutorials/
+ 1115  ;s
+ 1116  ls
+ 1117  ./basic-tutorial-2 
+ 1118  ls
+ 1119  cd ~
+ 1120  ls
+ 1121  cd Himanshu/
+ 1122  ls
+ 1123  cd Himanshu/
+ 1124  ls
+ 1125  cd Gstreamer/
+ 1126  ls
+ 1127  cd gst-docs/
+ 1128  ls
+ 1129  cd theme/
+ 1130  cd ..
+ 1131  ls
+ 1132  cd examples/
+ 1133  ls
+ 1134  cd tutorials/
+ 1135  ls
+ 1136  gcc basic-tutorial-5.c -o basic-tutorial-5 `pkg-config --cflags --libs gstreamer-video-1.0 gtk+-3.0 gstreamer-1.0
+ 1137  gcc basic-tutorial-5.c -o basic-tutorial-5 `pkg-config --cflags --libs gstreamer-video-1.0 gtk+-3.0 gstreamer-1.0`
+ 1138  ls
+ 1139  ./basic-tutorial-5
+ 1140  ls
+ 1141  cd ..
+ 1142  ls
+ 1143  cd ..
+ 1144  ls
+ 1145  cd ..
+ 1146  ls
+ 1147  cd ..
+ 1148  ls
+ 1149  cd GitCodes/
+ 1150  ls
+ 1151  git https://github.com/nobled/gtk.git
+ 1152  git clone https://github.com/nobled/gtk.git
+ 1153  ls
+ 1154  cd ..
+ 1155  ls
+ 1156  cd g
+ 1157  cd gtk/
+ 1158  ls
+ 1159  cd ..
+ 1160  ls
+ 1161  cd ..
+ 1162  ls
+ 1163  git clone https://github.com/snail2b/gtk-vlc-video-player.git
+ 1164  ls
+ 1165  cd Himanshu/
+ 1166  ls
+ 1167  cd Gstreamer/
+ 1168  ls
+ 1169  cd ..
+ 1170  ls
+ 1171  cd GitCodes/
+ 1172  ls
+ 1173  git clone https://github.com/DoraSzasz/Videoplayer_Gstreamer_Gtk.git
+ 1174  git clone https://github.com/nzjrs/simple-video-viewer.git
+ 1175  ls
+ 1176  cd simple-video-viewer/
+ 1177  ls
+ 1178  make clean
+ 1179  make
+ 1180  nano autogen.sh 
+ 1181  nano README 
+ 1182  ls
+ 1183  nano ChangeLog 
+ 1184  nano NEWS 
+ 1185  nano svv.c 
+ 1186  l
+ 1187  ls
+ 1188  cd Himanshu/
+ 1189  ls
+ 1190  cd ..
+ 1191  ls
+ 1192  cd rcs_ocppkiosk/ocppservice_kiosk/
+ 1193  ls
+ 1194  cd theme/
+ 1195  ls
+ 1196  cd RCS_1024x768/
+ 1197  ls
+ 1198  glade kiosk.glade 
+ 1199  ls
+ 1200  nano kiosk.glade 
+ 1201  ls
+ 1202  cd ..
+ 1203  ls
+ 1204  cd ..
+ 1205  ls
+ 1206  cd ..
+ 1207  ls
+ 1208  cd ..
+ 1209  l
+ 1210  sls
+ 1211  ls
+ 1212  cd rcs_ocppkiosk/
+ 1213  ls
+ 1214  cd ocppservice_kiosk/
+ 1215  ls
+ 1216  cd ..
+ 1217  ls
+ 1218  cd ..
+ 1219  ls
+ 1220  mkdir video_player
+ 1221  cd video
+ 1222  cd video_player/
+ 1223  cd ..
+ 1224  ls
+ 1225  cp video.glade video_player/
+ 1226  ;s
+ 1227  ls
+ 1228  cd video_player/
+ 1229  ls
+ 1230  mkdir src glade
+ 1231  ls
+ 1232  cp video.glade glade/
+ 1233  ls
+ 1234  rm video.glade 
+ 1235  ls
+ 1236  touch Makefile
+ 1237  ls
+ 1238  cd src/
+ 1239  ls
+ 1240  touch main.c
+ 1241  ls
+ 1242  cd ~
+ 1243  ;s
+ 1244  ls
+ 1245  cd Himanshu/
+ 1246  ;s
+ 1247  ls
+ 1248  cd Himanshu/
+ 1249  ls
+ 1250  cd GitCodes/
+ 1251  ls
+ 1252  cd simple-video-viewer/
+ 1253  ls
+ 1254  cd ..
+ 1255  ls
+ 1256  cd Videoplayer_Gstreamer_Gtk/
+ 1257  ls
+ 1258  make clean
+ 1259  ls
+ 1260  make
+ 1261  ls
+ 1262  nano Makefile 
+ 1263  make clean
+ 1264  make
+ 1265  nano README.md 
+ 1266  ls
+ 1267  make
+ 1268  nano Makefile 
+ 1269  make
+ 1270  ls
+ 1271  cd ..
+ 1272  ls
+ 1273  cd 
+ 1274  ls
+ 1275  cd Himanshu/Himanshu/GitCodes/
+ 1276  ls
+ 1277  cd simple-video-viewer/
+ 1278  ls
+ 1279  cd ..
+ 1280  ls
+ 1281  cd Videoplayer_Gstreamer_Gtk/
+ 1282  ls
+ 1283  cd player.c 
+ 1284  nano player.c 
+ 1285  apt-get install libgstreamer1.0-0 gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav gstreamer1.0-doc gstreamer1.0-tools
+ 1286  apt-get install gstreamer1.0-tools
+ 1287  cd ~
+ 1288  kl
+ 1289  ls
+ 1290  nano video.glade 
+ 1291  glade video.glade 
+ 1292  nano video.glade
+ 1293  glade video.glade
+ 1294  nano video.glade
+ 1295  cd /usr/include/
+ 1296  ls
+ 1297  cd gstreamer-1.0/
+ 1298  ls
+ 1299  cd gst/
+ 1300  ls
+ 1301  cd video/
+ 1302  ls
+ 1303  cd ..
+ 1304  ls
+ 1305  ls */* | grep *"over"*
+ 1306  ls */* | grep *over*
+ 1307  ls */*/* | grep *over*
+ 1308  cd video/
+ 1309  ls
+ 1310  cd ..
+ 1311  ls
+ 1312  cd ..
+ 1313  ls
+ 1314  cd ..
+ 1315  ls
+ 1316  cd gstreamer-1.
+ 1317  cd gstreamer-1.2
+ 1318  ls
+ 1319  cd gst/
+ 1320  ls
+ 1321  cd vaapi/
+ 1322  ls
+ 1323  cd ..
+ 1324  ls
+ 1325  cd ..
+ 1326  ls
+ 1327  cd ..
+ 1328  ls
+ 1329  cd 
+ 1330  ls
+ 1331  cd Himanshu/
+ 1332  ls
+ 1333  cd linuxProgramming/
+ 1334  ls
+ 1335  cd 776130code11.tar
+ 1336  ls
+ 1337  cd 776130code11
+ 1338  ls
+ 1339  cd code/
+ 1340  ls
+ 1341  make
+ 1342  ls
+ 1343  ./play
+ 1344  ./player 
+ 1345  nano Makefile 
+ 1346  lls
+ 1347  ldd player 
+ 1348  ldd player | grep libav
+ 1349  ldd player | grep "libav"
+ 1350  ldd player 
+ 1351  ldd linux-vdso.so.1
+ 1352  ldd player 
+ 1353  ls
+ 1354  cd ~
+ 1355  ls
+ 1356  cd rcs_ocppkiosk/
+ 1357  ls
+ 1358  cd ocppservice_kiosk/
+ 1359  ls
+ 1360  cd ..
+ 1361  ls
+ 1362  cd Himanshu/
+ 1363  ls
+ 1364  cd Himanshu/
+ 1365  ls
+ 1366  cd GitCodes/
+ 1367  ls
+ 1368  ls -a
+ 1369  cd ..
+ 1370  ls
+ 1371  cd webkit/
+ 1372  ls
+ 1373  cd ..
+ 1374  ls
+ 1375  cd gtk/
+ 1376  ls
+ 1377  cd ..
+ 1378  l
+ 1379  sls
+ 1380  ls
+ 1381  cd Gstreamer/
+ 1382  ls
+ 1383  cd ..
+ 1384  l
+ 1385  scd gladegtk/
+ 1386  ls
+ 1387  ls gladegtk/
+ 1388  ls
+ 1389  cd GitCodes/
+ 1390  ls
+ 1391  git clone https://github.com/nobled/gtk.git
+ 1392  ls
+ 1393  lls
+ 1394  ls
+ 1395  cd ..
+ 1396  ls
+ 1397  cd webkit/
+ 1398  ls
+ 1399  nano webkit2.c
+ 1400  lls
+ 1401  ls
+ 1402  ./test
+ 1403  ssh 10.2.29.17 -p 52535
+ 1404  ls
+ 1405  cd Downloads/
+ 1406  ls
+ 1407  cp netbeans-8.1-cpp-linux-x64.sh /media/sf_Ubuntu/
+ 1408  ls
+ 1409  sudo apt-get update
+ 1410  ls
+ 1411  cd Himanshu/testingcodes/c++/
+ 1412  ls
+ 1413  g++ testJason.cpp 
+ 1414  apt-cache search libjson
+ 1415  g++ testJason.cpp 
+ 1416  g++ testwebsocketpp.cpp 
+ 1417  g++ testwebsocketpp.cpp -lpthead
+ 1418  ls
+ 1419  cd ..
+ 1420  ls
+ 1421  cd c++/
+ 1422  LS
+ 1423  ls
+ 1424  mkdir vector
+ 1425  cd vector
+ 1426  ls
+ 1427  su gridscaoe
+ 1428  ls
+ 1429  exit
+ 1430  sudo apt-get update
+ 1431  ls
+ 1432  sudo apt-get updat
+ 1433  ls
+ 1434  cd gitcodes/
+ 1435  ls
+ 1436  cd ocpp_kiosk/ocppkiosk/ocppservice_kiosk/
+ 1437  ls
+ 1438  cd theme/theme1/
+ 1439  l
+ 1440  glade kiosk.glade 
+ 1441  glade kiosk.glade &
+ 1442  ls
+ 1443  cd ..
+ 1444  ls
+ 1445  cd ..
+ 1446  ls
+ 1447  cd conf/
+ 1448  ls
+ 1449  nano get_pricinginfo.json 
+ 1450  reboot
+ 1451  ls
+ 1452  apt-get install snmp
+ 1453  apt-cache search snmpd
+ 1454  apt-get install snmpd
+ 1455  apt-cache search apt-get install dnsutils
+ 1456  apt-cache search nsutils
+ 1457  apt-get install dnsutils
+ 1458  ls
+ 1459  apt-get install libmodbus-dev
+ 1460  apt-get install sqlite3
+ 1461  apt-cache search libsnmp-dev
+ 1462  apt-get install libsnmp-dev
+ 1463  apt-cache search libudev-dev
+ 1464  apt-get install libudev-dev
+ 1465  apt-cache search libusb-dev
+ 1466  apt-get install libusb-dev
+ 1467  ls
+ 1468  rsyslog
+ 1469  apt-get install rsyslog
+ 1470  apt-cache search rsyslog
+ 1471  apt-get install logrotate
+ 1472  ls
+ 1473  apt-cache search libbluetooth-dev
+ 1474  apt-get install libbluetooth-dev
+ 1475  ls
+ 1476  sudo apt-get update
+ 1477  ls
+ 1478  sudo 
+ 1479  ls
+ 1480  su
+ 1481  sudo apt-get update
+ 1482  ls
+ 1483  cd Himanshu/4
+ 1484  cd Himanshu//
+ 1485  ls
+ 1486  cd GitCodes/
+ 1487  ls
+ 1488  git clone https://github.com/open-source-parsers/jsoncpp.git
+ 1489  ls
+ 1490  cd jsoncpp/
+ 1491  ls
+ 1492  sudo apt-get install build-essential cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
+ 1493  sudo apt-get install python3.5-dev python3-numpy libtbb2 libtbb-dev
+ 1494  sudo apt-get install python*-dev python3-numpy libtbb2 libtbb-dev
+ 1495  sudo apt-get install python*-dev python*-numpy libtbb2 libtbb-dev
+ 1496  ls
+ 1497  sudo apt-get update
+ 1498  cd ..
+ 1499  ls
+ 1500  cd ..
+ 1501  ls
+ 1502  cd testingcodes/
+ 1503  ls
+ 1504  mkdir mysql3
+ 1505  cd mysql3/
+ 1506  ls
+ 1507  cd ..
+ 1508  ls
+ 1509  cd ls
+ 1510  ls
+ 1511  cd mysql/
+ 1512  ls
+ 1513  g++ createTable.cpp -lsqlite3
+ 1514  nano createTable.cpp 
+ 1515  g++ createTable.cpp -lsqlite3
+ 1516  nano createTable.cpp 
+ 1517  g++ createTable.cpp -lsqlite3
+ 1518  nano createTable.cpp 
+ 1519  g++ createTable.cpp -lsqlite3
+ 1520  ./a.out 
+ 1521  ls
+ 1522  nano insert.cpp
+ 1523  g++ insert.cpp -lsqlite3
+ 1524  nano insert.cpp
+ 1525  g++ insert.cpp -lsqlite3
+ 1526  chmod +777 insert.cpp 
+ 1527  g++ insert.cpp -lsqlite3
+ 1528  ./a.out 
+ 1529  ls
+ 1530  nano insert.cpp 
+ 1531  g++ insert.cpp -lsqlite3
+ 1532  ./a.out 
+ 1533  ls
+ 1534  nano select.cpp
+ 1535  g++ select.cpp -lsqlite3
+ 1536  nano select.cpp
+ 1537  g++ select.cpp -lsqlite3
+ 1538  nano select.cpp
+ 1539  g++ select.cpp -lsqlite3
+ 1540  ./a.out 
+ 1541  nano select.cpp
+ 1542  g++ select.cpp -lsqlite3
+ 1543  ./a.out 
+ 1544  nano select.cpp
+ 1545  g++ select.cpp -lsqlite3
+ 1546  ./a.out 
+ 1547  nano select.cpp
+ 1548  g++ select.cpp -lsqlite3
+ 1549  ./a.out 
+ 1550  nano select.cpp
+ 1551  g++ select.cpp -lsqlite3
+ 1552  nano select.cpp
+ 1553  g++ select.cpp -lsqlite3
+ 1554  ./a.out 
+ 1555  nano select.cpp
+ 1556  g++ select.cpp -lsqlite3
+ 1557  ./a.out 
+ 1558  nano select.cpp
+ 1559  g++ select.cpp -lsqlite3
+ 1560  ./a.out 
+ 1561  nano select.cpp
+ 1562  sqlite3 test.db 
+ 1563  ls
+ 1564  ./a.out 
+ 1565  nano select.cpp
+ 1566  g++ select.cpp -lsqlite3
+ 1567  ./a.out 
+ 1568  nano select.cpp
+ 1569  g++ select.cpp -lsqlite3
+ 1570  ./a.out 
+ 1571  man sqlite3_exec
+ 1572  man 2 sqlite3_exec
+ 1573  man 3 sqlite3_exec
+ 1574  help sqlite3
+ 1575  man -k' sqlite3
+ 1576  '
+ 1577  man -k sqlite3
+ 1578  man -1 sqlite3
+ 1579  man -k sqlite3_exec
+ 1580  ls
+ 1581  ./a.out 
+ 1582  nano select1.cpp
+ 1583  g++ select1.cpp -lsqlite3
+ 1584  ./a.out 
+ 1585  nano select1.cpp 
+ 1586  s
+ 1587  nano update.cpp
+ 1588  g++ update.cpp -lsqlite3
+ 1589  nano update.cpp
+ 1590  g++ update.cpp -lsqlite3
+ 1591  nano update.cpp
+ 1592  g++ update.cpp -lsqlite3
+ 1593  ./a.out 
+ 1594  nano update.cpp
+ 1595  g++ update.cpp -lsqlite3
+ 1596  ./a.out 
+ 1597  ls
+ 1598  ./a.out 
+ 1599  ls
+ 1600  nano delete.cpp
+ 1601  g++ delete.cpp -lsqlite3
+ 1602  nano delete.cpp
+ 1603  g++ delete.cpp -lsqlite3
+ 1604  ./a.out 
+ 1605  ls
+ 1606  cd ..
+ 1607  ls
+ 1608  cd c++/
+ 1609  ls
+ 1610  mkdir namespace
+ 1611  cd namespace/
+ 1612  ls
+ 1613  nano namespace1.cpp
+ 1614  g++ namespace1.cpp 
+ 1615  nano namespace1.cpp
+ 1616  g++ namespace1.cpp 
+ 1617  ./a.out 
+ 1618  nano namespace1.cpp
+ 1619  g++ namespace1.cpp 
+ 1620  ./s
+ 1621  ./a.out 
+ 1622  ls
+ 1623  nano namespace2.cpp
+ 1624  g++ namespace2.cpp 
+ 1625  ./a.out 
+ 1626  ls
+ 1627  nano namespace3.cpp
+ 1628  g++ namespace3.cpp 
+ 1629  ./a.out 
+ 1630  nano namespace4.cpp
+ 1631  g++ namespace3.cpp 
+ 1632  g++ namespace4.cpp 
+ 1633  ./a.out 
+ 1634  nano namespace5.cpp
+ 1635  g++ namespace5.cpp
+ 1636  ./a.out 
+ 1637  ls
+ 1638  cd ..
+ 1639  ls
+ 1640  cd ..
+ 1641  ls
+ 1642  mkdir httpSocket
+ 1643  cd httpSocket/
+ 1644  ls
+ 1645  nano http_server.c
+ 1646  nano index.html
+ 1647  ls
+ 1648  nano Makefile
+ 1649  ls
+ 1650  ls -a
+ 1651  ls
+ 1652  gcc http_server.c
+ 1653  nano http_server.c 
+ 1654  gcc http_server.c
+ 1655  nano http_server.c 
+ 1656  gcc http_server.c
+ 1657  nano http_server.c 
+ 1658  gcc http_server.c
+ 1659  ./a.out 
+ 1660  ls
+ 1661  nano index.html 
+ 1662  gcc http_server.c
+ 1663  ./a.out 
+ 1664  ls
+ 1665  nano index.html 
+ 1666  nano http_server.c 
+ 1667  gcc http_server.c
+ 1668  ./a.out 
+ 1669  ls
+ 1670  chmod +755 index.html 
+ 1671  ./a.out 
+ 1672  ls
+ 1673  ls -a
+ 1674  ls -l
+ 1675  ./
+ 1676  chmod -R +755 *
+ 1677  ./a.out 
+ 1678  gcc http_server.c
+ 1679  ./a.out 
+ 1680  nano http_client.c
+ 1681  gcc -o client http_client.c 
+ 1682  nano http_client.c
+ 1683  gcc -o client http_client.c 
+ 1684  nano http_client.c
+ 1685  gcc -o client http_client.c 
+ 1686  man inet_atons
+ 1687  man 2 inet_atons
+ 1688  man 3 inet_atons
+ 1689  man -k inet_atons
+ 1690  nano http_client.c
+ 1691  gcc -o client http_client.c 
+ 1692  nano http_client.c
+ 1693  gcc -o client http_client.c 
+ 1694  ls
+ 1695  ping google.com
+ 1696  ls
+ 1697  ./client 172.217.27.206
+ 1698  ls
+ 1699  ./client 127.0.0.1
+ 1700  gcc -o client http_client.c 
+ 1701  nano http_client.c 
+ 1702  l
+ 1703  ls
+ 1704  cd ..
+ 1705  ls
+ 1706  mkdir makefile
+ 1707  cd makefile/
+ 1708  ls
+ 1709  mkdir tut1
+ 1710  cd tut1/
+ 1711  nano main.c
+ 1712  nano hello.cpp
+ 1713  nano factorial.cpp
+ 1714  nano function.h
+ 1715  ls
+ 1716  cp main.c main.cpp
+ 1717  rm main.c
+ 1718  ls
+ 1719  CC main.cpp factorial.cpp hello.cpp -o hello
+ 1720  cc main.cpp factorial.cpp hello.cpp -o hello
+ 1721  nano hello.cpp 
+ 1722  cc main.cpp factorial.cpp hello.cpp -o hello
+ 1723  nano hello.cpp 
+ 1724  cc main.cpp factorial.cpp hello.cpp -o hello
+ 1725  cc main.cpp hello.cpp  factorial.cpp  -o hello
+ 1726  nano hello.cpp 
+ 1727  cc main.cpp hello.cpp  factorial.cpp  -o hello
+ 1728  nano main.cpp 
+ 1729  cc main.cpp hello.cpp  factorial.cpp  -o hello
+ 1730  nano main.cpp 
+ 1731  nano hello.cpp 
+ 1732  nano function.h 
+ 1733  lls
+ 1734  ls
+ 1735  cat *
+ 1736  g++ main.cpp hello.cpp  factorial.cpp  -o hello
+ 1737  ./hello 
+ 1738  nano makefile
+ 1739  make
+ 1740  ls
+ 1741  nano makefile
+ 1742  make
+ 1743  ls
+ 1744  rm hello
+ 1745  ls
+ 1746  make
+ 1747  nano makefile
+ 1748  make
+ 1749  ls
+ 1750  make -p
+ 1751  cp makefile makefile1
+ 1752  rm makefile
+ 1753  nano makefile
+ 1754  make
+ 1755  cp makefile makefile1ls
+ 1756  ls
+ 1757  make
+ 1758  nano makefile
+ 1759  make
+ 1760  nano makefile
+ 1761  make
+ 1762  nano makefile
+ 1763  make
+ 1764  ls
+ 1765  make clean
+ 1766  ls
+ 1767  nano makefile
+ 1768  make
+ 1769  make clean
+ 1770  ls
+ 1771  nano ma
+ 1772  nano makefile
+ 1773  make 
+ 1774  ls
+ 1775  make clean
+ 1776  ls
+ 1777  make main
+ 1778  make hello
+ 1779  ls
+ 1780  make clean
+ 1781  make factorial
+ 1782  ls
+ 1783  nano makefile
+ 1784  nano makefile;
+ 1785  make
+ 1786  ls
+ 1787  make clean
+ 1788  ls
+ 1789  GNU make
+ 1790  gnu make
+ 1791  l
+ 1792  cp makefile makefile2
+ 1793  rm makefile
+ 1794  nano makefiel
+ 1795  nano makefile
+ 1796  make
+ 1797  ls
+ 1798  make clean
+ 1799  ls
+ 1800  make
+ 1801  nano makefile
+ 1802  ls
+ 1803  make
+ 1804  make clean
+ 1805  ls
+ 1806  make 
+ 1807  ls
+ 1808  nano makefile
+ 1809  make clean
+ 1810  ls
+ 1811  make
+ 1812  ls
+ 1813  ./hello 
+ 1814  ls
+ 1815  ldd hello
+ 1816  ls
+ 1817  cd ..
+ 1818  ls
+ 1819  cd ..
+ 1820  ls
+ 1821  mkdir dynamicLib
+ 1822  cd dynamicLib/
+ 1823  ls
+ 1824  nano foo.c
+ 1825  nano foo.h
+ 1826  ls
+ 1827  nano foo.c
+ 1828  ls
+ 1829  nano main.c
+ 1830  ls
+ 1831  gcc -c -Wall -Werror -fpic foo.c
+ 1832  ls
+ 1833  gcc -shared -o libfoo.so foo.o
+ 1834  ls
+ 1835  ldd libfoo.so 
+ 1836  gcc -L/home/gridscape/Himanshu/testingcodes/dynamicLib -Wall -o test main.c -lfoo
+ 1837  gcc -Wall -o test main.c -lfoo
+ 1838  gcc -L/home/gridscape/Himanshu/testingcodes/dynamicLib -Wall -o test main.c -lfoo
+ 1839  ls
+ 1840  ./test 
+ 1841  echo $LD_LIBRARY_PATH
+ 1842  export LD_LIBRARY_PATH=/home/gridscape/Himanshu/testingcodes/dynamicLib:$LD_LIBRARY_PATH
+ 1843  ./test 
+ 1844  ls
+ 1845  ldd test 
+ 1846  unset LD_LIBRARY_PATH
+ 1847  ls
+ 1848  ldd test 
+ 1849  ls
+ 1850  ldd libfoo.so 
+ 1851  gcc -L/home/gridscape/Himanshu/testingcodes/dynamicLib -Wl, -rpath/home/gridscape/Himanshu/testingcodes/dynamicLib -Wall -o test main.c -lfoo
+ 1852  ls
+ 1853  rm foo.o libfoo.so test 
+ 1854  ls
+ 1855  gcc -L/home/gridscape/Himanshu/testingcodes/dynamicLib -Wl -rpath/home/gridscape/Himanshu/testingcodes/dynamicLib -Wall -o test main.c -lfoo
+ 1856  gcc -L/home/gridscape/Himanshu/testingcodes/dynamicLib -Wl, -rpath/home/gridscape/Himanshu/testingcodes/dynamicLib -Wall -o test main.c -lfoo
+ 1857  gcc -L/home/gridscape/Himanshu/testingcodes/dynamicLib -Wl,-rpath/home/gridscape/Himanshu/testingcodes/dynamicLib -Wall -o test main.c -lfoo
+ 1858  gcc -L/home/gridscape/Himanshu/testingcodes/dynamicLib -Wl,-rpath=/home/gridscape/Himanshu/testingcodes/dynamicLib -Wall -o test main.c -lfoo
+ 1859  gcc -L/home/gridscape/Himanshu/testingcodes/dynamicLib -Wl, -rpath=/home/gridscape/Himanshu/testingcodes/dynamicLib -Wall -o test main.c -lfoo
+ 1860  gcc -L/home/gridscape/Himanshu/testingcodes/dynamicLib -Wl,-rpath=/home/gridscape/Himanshu/testingcodes/dynamicLib -Wall -o test main.c -lfoo
+ 1861  gcc -L/home/gridscape/Himanshu/testingcodes/dynamicLib -rpath=/home/gridscape/Himanshu/testingcodes/dynamicLib -Wall -o test main.c -lfoo
+ 1862  gcc -L/home/gridscape/Himanshu/testingcodes/dynamicLib  -Wall -o test main.c -lfoo
+ 1863  ls
+ 1864  gcc -c foo.o foo.h 
+ 1865  gcc -c -Wall -Werror -fpic foo.c
+ 1866  nano makefile
+ 1867  ls
+ 1868  nano makefile
+ 1869  make
+ 1870  ls
+ 1871  nano makefile 
+ 1872  sh makefile 
+ 1873  ls
+ 1874  ./test 
+ 1875  nano run
+ 1876  ls
+ 1877  ldd test 
+ 1878  sh run 
+ 1879  ls
+ 1880  ldd test 
+ 1881  ./test 
+ 1882  nano foo.c 
+ 1883  s
+ 1884  sh makefile 
+ 1885  ls
+ 1886  ./test 
+ 1887  ./run
+ 1888  sh run 
+ 1889  ls
+ 1890  ./test 
+ 1891  l
+ 1892  sls
+ 1893  s
+ 1894  ls
+ 1895  cd ..
+ 1896  ls
+ 1897  mkdir staticLib
+ 1898  cd staticLib/
+ 1899  ls
+ 1900  cp ../dynamicLib/* ./
+ 1901  ls
+ 1902  ar rc
+ 1903  ls
+ 1904  ar rc libmylib.a foo.o
+ 1905  ls
+ 1906  ranlib libmylib.a
+ 1907  gcc -o  main main.c -L. -lmylib
+ 1908  ls
+ 1909  ./main 
+ 1910  rm libfoo.so test makefile runc
+ 1911  rm libfoo.so test makefile run
+ 1912  ls
+ 1913  ./main 
+ 1914  nano makefile
+ 1915  nano makefile2
+ 1916  ls
+ 1917  nano makefile
+ 1918  sh makefile
+ 1919  ls
+ 1920  rm main libmylib.a foo.o foo.h.gch 
+ 1921  ls
+ 1922  nano makefile
+ 1923  ls
+ 1924  sh makefile
+ 1925  ls
+ 1926  nano makefile
+ 1927  sh makefile
+ 1928  l
+ 1929  gcc foo.c
+ 1930  gcc -c foo.c
+ 1931  ls
+ 1932  nano makefile
+ 1933  rm foo.o 
+ 1934  ls
+ 1935  sh makefile
+ 1936  ls
+ 1937  sh makefile2
+ 1938  ls
+ 1939  ./main 
+ 1940  ls
+ 1941  nano makefile2
+ 1942  nano makefile
+ 1943  sh makefile
+ 1944  ls
+ 1945  rm foo.o main libmylib.a 
+ 1946  ls
+ 1947  l
+ 1948  sh makefile
+ 1949  ls
+ 1950  ldd main
+ 1951  ls
+ 1952  nano foo.c
+ 1953  sh makefile
+ 1954  ls
+ 1955  ./main 
+ 1956  nano foo.c
+ 1957  nano makefile
+ 1958  sh makefile
+ 1959  ls
+ 1960  nano makefile
+ 1961  nano main.c 
+ 1962  ls
+ 1963  nano makefile
+ 1964  sh makefile
+ 1965  ls
+ 1966  ./main 
+ 1967  ls
+ 1968  cd ~
+ 1969  ls
+ 1970  cd Desktop/
+ 1971  ls
+ 1972  cd ..
+ 1973  ls
+ 1974  cd ~
+ 1975  l
+ 1976  exit
+ 1977  ls
+ 1978  lsls
+ 1979  ls
+ 1980  sqlite3 test.db 
+ 1981  ls
+ 1982  nano select.cpp 
+ 1983  g++ select.cpp -lsqlite3
+ 1984  ./a.out 
+ 1985  nano select.cpp 
+ 1986  g++ select.cpp -lsqlite3
+ 1987  ./a.out 
+ 1988  nano select.cpp 
+ 1989  g++ select.cpp -lsqlite3
+ 1990  ./a.out 
+ 1991  cd ..
+ 1992  ls
+ 1993  cd makefile/
+ 1994  ls
+ 1995  cd tut1/
+ 1996  ls
+ 1997  exit
+ 1998  sudo apt-get install libssl-dev
+ 1999  cd ..
+ 2000  ls
+ 2001  cd c++/
+ 2002  LS
+ 2003  ls
+ 2004  mkdir websocketpp
+ 2005  cd websocketpp/
+ 2006  ls
+ 2007  nano basic_client.cpp
+ 2008  g++ basic_client.cpp 
+ 2009  g++ basic_client.cpp -lboost
+ 2010  ls
+ 2011  mkdir client
+ 2012  cd client/
+ 2013  mv ../basic_client.cpp ./
+ 2014  ls
+ 2015  g++ basic_client.cpp -lboost
+ 2016  cd /usr/bin/ld
+ 2017  cd /usr/bin/
+ 2018  ls
+ 2019  ls boost
+ 2020  ls | grep boost
+ 2021  cd -
+ 2022  ls
+ 2023  sudo apt-get install libboost-all-dev
+ 2024  ls
+ 2025  g++ basic_client.cpp -lboost
+ 2026  cd /usr/local/
+ 2027  kls
+ 2028  ls
+ 2029  cd include/
+ 2030  ls
+ 2031  cd websocketpp/
+ 2032  ls
+ 2033  cd //
+ 2034  ;s
+ 2035  cd ..
+ 2036  ls
+ 2037  cd /
+ 2038  ls
+ 2039  cd /home/gridscape/Himanshu/testingcodes/
+ 2040  ls
+ 2041  cd c++/
+ 2042  ls
+ 2043  cd websocketpp/
+ 2044  ls
+ 2045  git clone https://github.com/eidheim/Simple-WebSocket-Server.git
+ 2046  ls
+ 2047  cd Simple-WebSocket-Server/
+ 2048  ls
+ 2049  cd tests/
+ 2050  ls
+ 2051  cd ..
+ 2052  ls
+ 2053  cd .
+ 2054  cd ..
+ 2055  ls
+ 2056  cd client/
+ 2057  ls
+ 2058  g++ basic_client.cpp -lwebsocketpp
+ 2059  history
+ 2060  history >history.txt
